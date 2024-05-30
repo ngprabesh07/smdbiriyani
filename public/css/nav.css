@@ -1,6 +1,7 @@
 nav {
     background-color: #ffffff;
     color: black;
+    height: 50px;
 }
 
 nav ul {
@@ -17,5 +18,3 @@ nav ul li a {
     color: black;
     text-decoration: none;
 }
-
-
